@@ -26,7 +26,7 @@ The production build is written to `dist/`. Deploy that folder to any static hos
 - `src/data.ts` — all resume content (profile, skills, projects, education, certifications, achievements) in one typed file. Edit this to update the site.
 - `src/components/` — one component per section (Navbar, Hero, About, Skills, Projects, Education, Achievements, Contact, Footer), plus `EmbeddingField.tsx` (the animated hero background) and `Reveal.tsx` (scroll-reveal wrapper).
 - `src/hooks.ts` — scroll-spy for nav highlighting, reveal-on-scroll, and scrolled-state hooks.
-- `public/resume_adv(2).pdf` — the file served by the "Download resume" button. Replace this file to update what's downloaded.
+- `public/resume.pdf` — the file served by the "Download resume" button. Replace this file to update what's downloaded.
 
 ## Design notes
 

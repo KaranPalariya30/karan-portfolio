@@ -41,7 +41,7 @@ export default function Hero() {
               View my work
             </button>
             <a
-              href="/resume_adv(2).pdf"
+              href="/resume.pdf"
               download
               className="rounded-md border border-line px-6 py-3 font-mono text-sm text-paper transition-colors hover:border-signal hover:text-signal"
             >
